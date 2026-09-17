@@ -1,5 +1,7 @@
 {
     "version": "1.1.0",
-    "downloadUrl": "https://github.com/Ahmed-Abdulbaset/DesignDepartmentOrders/releases/download/v1.1.0/DesignDepartmentOrders.exe",
+    "downloadUrl": "https://github.com/Ahmed-Abdulbaset/DesignDepartmentOrders/releases/download/v1.1.0/Design.Department.Orders.exe",
     "releaseNotes": "Version 1.1.0 - Initial Release\n\nFeatures:\n- Orders & Items management\n- Revisions system (A, B, C...)\n- Excel Import/Export\n- PDF Reports (A3)\n- Direct Printing\n- Alerts Dashboard\n- Windows Notifications\n- Dark/Light Mode\n- Auto-Update"
 }
+
+              
